@@ -1,8 +1,7 @@
 # Konvrg
 
 Marketing site for Konvrg, which builds custom operational systems on WhatsApp for South African
-businesses. [konvrg.dev](https://konvrg.dev)
-
+businesses.
 ![screenshot](docs/screenshot.jpg)
 
 The pitch: most small businesses here already run on WhatsApp informally — bookings in a chat,
